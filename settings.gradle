@@ -1,0 +1,2 @@
+rootProject.name = "ZHNMApplication"
+include ':app',':zhnm_base_library',':zhnm_base_ui'
